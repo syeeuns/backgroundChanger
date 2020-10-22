@@ -1,0 +1,20 @@
+
+.box{
+  width: 400px; 
+  position: absolute;
+  top: 30%;
+  left: 37%;
+  text-align: center;
+}
+
+
+
+button{
+
+  height: 40px;
+  width: 90px;
+  color: white;
+  background-color: #6c757d;
+  border: 2px solid rgba(212, 217, 221, 0.5);
+  border-radius: 5px;
+}
